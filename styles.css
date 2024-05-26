@@ -1,1 +1,30 @@
-/*  your css code here. If applicable */
+#table-1{
+	border:1px solid black;
+	width:500px;
+	height:200px;
+}
+h1{
+	text-align:center;
+}
+th ,td{
+	border:1px solid black;
+}
+.left{
+	text-align:left;
+}
+.center{
+	text-align:center;
+}
+.right{
+	text-align:right;
+}
+
+#table-2{
+	border:1px solid black;
+	margin:20px
+	width:500;
+	height:200;
+}
+td,th{
+	border:1px solid black;
+}
