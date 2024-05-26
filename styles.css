@@ -29,5 +29,18 @@ th ,td{
 	padding:1px;
 	spacing:1px; 
 }
-
+#table-3{
+	border:1px solid black;
+	width:500px;
+	height:200px;
+}
+#tr-1{
+	background-color:green;
+}
+#tr-3{
+	background-color:blue;
+}
+#t-image{
+	align-content:center;
+}
 }
