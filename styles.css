@@ -1,7 +1,9 @@
 #table-1{
 	border:1px solid black;
 	width:500px;
-	height:200px;
+	height:100px;
+	Spacing: 1px;
+	Padding: 1px;
 }
 h1{
 	text-align:center;
@@ -21,10 +23,11 @@ th ,td{
 
 #table-2{
 	border:1px solid black;
-	margin:20px
-	width:500;
-	height:200;
+	margin:20px;
+	width:500px;
+	height:100px;
+	padding:1px;
+	spacing:1px; 
 }
-td,th{
-	border:1px solid black;
+
 }
